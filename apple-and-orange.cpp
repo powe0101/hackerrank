@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/apple-and-orange
-//Create by G(powe0101@naver.com)
+//Created by G(powe0101@naver.com)
 #include <map>
 #include <set>
 #include <list>

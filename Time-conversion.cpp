@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/time-conversion
-//Create by G(powe0101@naver.com)
+//Created by G(powe0101@naver.com)
 #include <cmath>
 #include <cstdio>
 #include <vector>

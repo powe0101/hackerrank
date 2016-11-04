@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/staircase
-//Create by G(powe0101@naver.com)
+//Created by G(powe0101@naver.com)
 #include <cmath>
 #include <cstdio>
 #include <vector>
